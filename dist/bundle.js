@@ -5286,13 +5286,13 @@ var _Home = __webpack_require__(96);
 
 var _Projects = __webpack_require__(98);
 
-var _About = __webpack_require__(110);
+var _About = __webpack_require__(108);
 
 var _reactRouterDom = __webpack_require__(16);
 
-var _AppContainer = __webpack_require__(113);
+var _AppContainer = __webpack_require__(111);
 
-var _Footer = __webpack_require__(115);
+var _Footer = __webpack_require__(113);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -28415,17 +28415,15 @@ var ProjCont = exports.ProjCont = _styledComponents2.default.div(_templateObject
 
 var map = {
 	"./1.jpg": 101,
-	"./15.jpg": 102,
-	"./2.jpg": 103,
-	"./3 - Αντιγραφή.jpg": 104,
-	"./3.jpg": 105,
-	"./4.jpg": 106,
-	"./5.jpg": 107,
+	"./2.jpg": 102,
+	"./3.jpg": 103,
+	"./4.jpg": 104,
+	"./5.jpg": 105,
 	"./cv-f.jpg": 39,
 	"./linkedin-icon-30x30.jpg": 40,
-	"./logo.jpg": 108,
+	"./logo.jpg": 106,
 	"./para.jpg": 36,
-	"./para2.jpg": 109,
+	"./para2.jpg": 107,
 	"./proj1.jpg": 37,
 	"./proj2.jpg": 38
 };
@@ -28455,52 +28453,40 @@ module.exports = __webpack_require__.p + "img/src/img/1.jpg";
 /* 102 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/src/img/15.jpg";
+module.exports = __webpack_require__.p + "img/src/img/2.jpg";
 
 /***/ }),
 /* 103 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/src/img/2.jpg";
+module.exports = __webpack_require__.p + "img/src/img/3.jpg";
 
 /***/ }),
 /* 104 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/src/img/3 - Αντιγραφή.jpg";
+module.exports = __webpack_require__.p + "img/src/img/4.jpg";
 
 /***/ }),
 /* 105 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/src/img/3.jpg";
+module.exports = __webpack_require__.p + "img/src/img/5.jpg";
 
 /***/ }),
 /* 106 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/src/img/4.jpg";
+module.exports = __webpack_require__.p + "img/src/img/logo.jpg";
 
 /***/ }),
 /* 107 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/src/img/5.jpg";
-
-/***/ }),
-/* 108 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/src/img/logo.jpg";
-
-/***/ }),
-/* 109 */
-/***/ (function(module, exports, __webpack_require__) {
-
 module.exports = __webpack_require__.p + "img/src/img/para2.jpg";
 
 /***/ }),
-/* 110 */
+/* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28517,9 +28503,9 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _AboutSkills = __webpack_require__(111);
+var _AboutSkills = __webpack_require__(109);
 
-var _AboutContainer = __webpack_require__(112);
+var _AboutContainer = __webpack_require__(110);
 
 var _cvF = __webpack_require__(39);
 
@@ -28591,7 +28577,7 @@ var About = exports.About = function (_React$Component) {
 }(_react2.default.Component);
 
 /***/ }),
-/* 111 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28755,7 +28741,7 @@ var AboutSkills = exports.AboutSkills = function (_React$Component) {
 }(_react2.default.Component);
 
 /***/ }),
-/* 112 */
+/* 110 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28788,7 +28774,7 @@ var AboutText = exports.AboutText = _styledComponents2.default.p(_templateObject
 var AboutSkill = exports.AboutSkill = _styledComponents2.default.div(_templateObject5);
 
 /***/ }),
-/* 113 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28805,7 +28791,7 @@ var _styledComponents = __webpack_require__(6);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
-var _websiteDesignBackground = __webpack_require__(114);
+var _websiteDesignBackground = __webpack_require__(112);
 
 var _websiteDesignBackground2 = _interopRequireDefault(_websiteDesignBackground);
 
@@ -28816,13 +28802,13 @@ function _taggedTemplateLiteral(strings, raw) { return Object.freeze(Object.defi
 var Background = exports.Background = _styledComponents2.default.div(_templateObject, _websiteDesignBackground2.default);
 
 /***/ }),
-/* 114 */
+/* 112 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "img/src/img/website-design-background.png";
 
 /***/ }),
-/* 115 */
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28839,13 +28825,13 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _FooterContainer = __webpack_require__(116);
+var _FooterContainer = __webpack_require__(114);
 
-var _facebook = __webpack_require__(117);
+var _facebook = __webpack_require__(115);
 
 var _facebook2 = _interopRequireDefault(_facebook);
 
-var _iconTwitter30x = __webpack_require__(118);
+var _iconTwitter30x = __webpack_require__(116);
 
 var _iconTwitter30x2 = _interopRequireDefault(_iconTwitter30x);
 
@@ -28962,7 +28948,7 @@ var Footer = exports.Footer = function (_React$Component) {
 }(_react2.default.Component);
 
 /***/ }),
-/* 116 */
+/* 114 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28995,13 +28981,13 @@ var FootContainer = exports.FootContainer = _styledComponents2.default.div(_temp
 var FootContainer2 = exports.FootContainer2 = _styledComponents2.default.div(_templateObject4);
 
 /***/ }),
-/* 117 */
+/* 115 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "img/src/img/facebook.png";
 
 /***/ }),
-/* 118 */
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "img/src/img/icon-twitter-30x30.png";
