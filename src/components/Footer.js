@@ -21,7 +21,7 @@ export class Footer extends React.Component {
 					</ul>
 					<ul className ="col-md-8">
 						<FootContainer2>
-							<Title>Contact Me at: </Title>
+							<Title>Contact Me: </Title>
 							<FootCont2> Email: konstadina.laiou@gmail.com </FootCont2>
 							<FootCont2> Phone number: 6988454564 </FootCont2>
 							<FootCont2> Home address: Peloponnisou 8,Thessaloniki </FootCont2>
